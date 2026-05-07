@@ -6,7 +6,8 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 
-const folderPath = '/Users/manojdevaraju/Desktop/TestFolder';
+//const folderPath = '/Users/manojdevaraju/Desktop/Testfolder';
+const folderPath = './TestFolder';
 
 // 👇 Basic Auth credentials
 const USERNAME = 'manoj';
