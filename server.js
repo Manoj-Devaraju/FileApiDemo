@@ -7,7 +7,7 @@ const PORT = process.env.PORT || 3000;
 
 
 //const folderPath = '/Users/manojdevaraju/Desktop/Testfolder';
-const folderPath = './TestFolder';
+const folderPath = './Testfolder';
 
 // 👇 Basic Auth credentials
 const USERNAME = 'manoj';
